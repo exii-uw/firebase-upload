@@ -1,3 +1,5 @@
+# Unity Firebase Uploader
+
 Based on these instructions: https://medium.com/@rotolonico/firebase-database-in-unity-with-rest-api-42f2cf6a2bbf
 
 1. Create a new Firebase project, with the realtime database in TEST mode for unauthenticated access.
